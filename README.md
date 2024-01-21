@@ -12,17 +12,6 @@ In this project I am using =
 #### R : REDUX FOR CREATE STATE AND USE THAT IN COMPONENT 
 #### N : NODE JS FOR BACKEND 
 
-Some important website links: ** NODE JS https://nodejs.org/en/ ** REACT JS https://reactjs.org/ ** NODEMAILER https://nodemailer.com/about/ ** EMAIL JS https://www.emailjs.com/
-
-## About Website Details
-
-In User Panel
-In this E-ccomerce Website User can Login and Register with their email id Even they forget their password He can forget their password. He can type their email id and he will get link mail about foget password in his inbox and after click link it will redirect to reset password page. He can update their password there. in this Webite users can shop any product what they need. He can Update their profile also. In Product Details They are able to give review and ratings to product. In Products page users can Sort and Search the product. User can buy the product from cart page and he can also store the product in favourite and remove the product from favourite and cart page. After Checkout he can fill his addresss and Confirm the product get discount below $5000 products. For Payment  He can Type (4242 4242 4242 4242) in card details for buy the product. This Payment Data is Restoring the STRIPE SERVER. After Payment He can Watch Order Details. 
-
-In Admin Panel 
-In Admin Dashboard he can watch Total Amount of products which Delivered by Usersa and there is Stock Quantity and Total Amount Bar also. Admin Get All Products, Users and Orders Data. In this panel admin can DELETE and EDIT Any Users and Products. Admin can create Products for users panel. Admin Can update Product Details like: Name, Price, Discount, Description, Category, Stock and Product Images. Admin can make any user to admin. Admin can Changed the Status of Ordered Product Like: Shipped And Delivered. Admin Can Also Delte the Product reviews.   
-   
-
 ## Authentication Page
 ![image](https://user-images.githubusercontent.com/81190422/165008468-9884d1f1-0c74-4080-be83-bddecc0d39e9.png)
 ![image](https://user-images.githubusercontent.com/81190422/165008509-8e97d103-8f83-4174-b7e3-50b36f1d88b1.png)
@@ -130,9 +119,3 @@ In Admin Dashboard he can watch Total Amount of products which Delivered by User
 ## Admin All Reviews
 ![image](https://user-images.githubusercontent.com/81190422/165010485-5dffd855-af6e-4199-853c-c8238b651019.png)
 
-
-=========================  CONNECTS WITH ME  ====================             
-
-#### INSTAGRAM: https://www.instagram.com/_niku_7827/  
-#### YOUTUBE  : https://www.linkedin.com/in/nitish-kumar-50a564205/
-####      LINKEDIN : https://www.linkedin.com/in/nitish-kumar-50a564205/
